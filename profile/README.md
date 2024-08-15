@@ -1,4 +1,3 @@
-
 ![MiraBanner](banner.png)
 ## Présentation
 
