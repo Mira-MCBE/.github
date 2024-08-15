@@ -1,5 +1,5 @@
 
-![MiraBanner](../banner.png)
+![MiraBanner](banner.png)
 ## Présentation
 
 ### Serveur en général
