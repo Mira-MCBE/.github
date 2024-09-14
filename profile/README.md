@@ -1,4 +1,4 @@
-![MiraBanner](banner.png)
+![banner](banner_mira_red_white.png)
 ## Présentation
 
 ### Serveur en général
@@ -13,15 +13,11 @@ Vous y retrouverez :
 - Un gameplay pillages revisité proposant des artifices exclusifs
 - Des **évènements entre factions**, **évènements semi-privés** et **évènements saisonniers**
 ### Informations utiles
-Site officiel : 
+Wiki officiel, il regroupe l'ensemble des informations que ce soit sur le gameplay, l'équipement, les différents systèmes disponibles ainsi que des conseils pratiques : https://www.mcpe.mira.fr/wiki.
 
-Wiki : 
+Boutique officielle, vous pouvez y acheter un grade, des cosmétiques ou autres artifices afin de vous apporter davantage de confort : ⁠boutique 
 
-Boutique :
-
-Discord : 
-
-YouTube :
+Notre chaîne YouTube officielle, nous y posterons les trailers, spoils et rediffusions de conférences et évènements : https://www.youtube.com/@MiraMCBE.
 
 Contact PRO : [@swit_azya](https://discord.com/users/762264222058676234) / mcbe.mira@gmail.com
 
