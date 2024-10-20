@@ -11,15 +11,18 @@ Vous y retrouverez :
 - Des machines permettant de **confectionner votre équipement** ou de le **perfectionner**
 - Des **systèmes de quêtes**, de **métiers** et de **factions** intuitifs et de qualité 
 - Un gameplay pillages revisité proposant des artifices exclusifs
+- Des cosmétiques en tout genres obtenables gratuitement
 - Des **évènements entre factions**, **évènements semi-privés** et **évènements saisonniers**
-### Informations utiles
-Wiki officiel, il regroupe l'ensemble des informations que ce soit sur le gameplay, l'équipement, les différents systèmes disponibles ainsi que des conseils pratiques : https://www.mcpe.mira.fr/wiki.
+### Réseaux sociaux et contact
+Wiki : il regroupe l'ensemble des informations que ce soit sur le gameplay ou les différents systèmes disponibles ainsi que des conseils pratiques : https://www.mcpe.mira.fr/wiki.
 
-Boutique officielle, vous pouvez y acheter un grade, des cosmétiques ou autres artifices afin de vous apporter davantage de confort : ⁠boutique 
+Boutique : vous pouvez y acheter un grade, des cosmétiques ou autres artifices afin de vous apporter davantage de confort de jeu : ⁠boutique 
 
-Notre chaîne YouTube officielle, nous y posterons les trailers, spoils et rediffusions de conférences et évènements : https://www.youtube.com/@MiraMCBE.
+YouTube : nous y posterons les trailers, spoils et rediffusions de conférences et évènements : https://www.youtube.com/@MiraMCBE.
 
-Contact PRO : [@swit_azya](https://discord.com/users/762264222058676234) / mcbe.mira@gmail.com
+Contact PRO :
+- E-mail : mcbe.mira@gmail.com
+- Discord : [@swit_azya](https://discord.com/users/762264222058676234) 
 
 > [!Note]
-> Actuellement en développement et projet privé.
+> Actuellement en développement et non annoncé publiquement.
